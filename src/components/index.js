@@ -6,7 +6,7 @@ import Navbar from './Navbar';
 import Socials from './Socials';
 import Tech from './Tech';
 import Works from './Works';
-import { BallCanvas, ComputersCanvas, EarthCanvas, SphereCanvas, StarsCanvas } from './canvas';
+import { BallCanvas, ComputersCanvas, EarthCanvas, StarsCanvas } from './canvas';
 
 export {
 	About,
