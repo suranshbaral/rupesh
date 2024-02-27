@@ -24,7 +24,7 @@ const Contact = () => {
 	const templateID = import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID;
 	const publicKey = import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY;
 	const toName = import.meta.env.VITE_APP_EMAILJS_TO_NAME;
-	const toEmail = import.meta.env.VITE_APP_EMAILJS_TO_EMAIL;
+	const toEmail = 'suransh567@gmail.com';
 
 	const handleChange = e => {
 		const { name, value } = e.target;

@@ -33,8 +33,8 @@ import {
 } from '../assets';
 
 const githubUser = import.meta.env.VITE_APP_GITHUB_USER;
-const linkedinUser = import.meta.env.VITE_APP_LINKEDIN_USER;
-const discordUser = import.meta.env.VITE_APP_DISCORD_USER;
+const linkedinUser = "rupeshbaral";
+const discordUser = "baburup";
 
 export const navLinks = [
 	{
@@ -197,36 +197,36 @@ const projects = [
 			},
 		],
 		image: e_commerce,
-		source_code_link: 'https://github.com/exslym/ecommerce/',
-		website_link: 'https://e-commerce-exs.payloadcms.app/',
+		//source_code_link: 'https://github.com/exslym/ecommerce/',
+		//website_link: 'https://e-commerce-exs.payloadcms.app/',
 	},
-	/*{
+	{
 		name: '3D Tiny World',
 		description:
-			'Take a look at my latest 3D portfolio outstanding animated website with levitating island and flying models using 3D-graphics and animations with ThreeJS, React and Tailwind.',
+			'A thorough financial prediction and analysis tool, the OXY Financial Model is intended to evaluate the financial performance and well-being of the OXY company. This model is a dynamic framework that may be used to forecast and analyze several financial measures over a given time period, usually one to five years.',
 		tags: [
 			{
-				name: 'javascript',
+				name: 'OXYFinancialAnalysis',
 				color: 'blue-text-gradient',
 			},
 			{
-				name: 'react',
+				name: 'FinancialModeling',
 				color: 'green-text-gradient',
 			},
 			{
-				name: 'tailwindcss',
+				name: 'StrategicPlanning',
 				color: 'pink-text-gradient',
 			},
 			{
-				name: 'threejs',
+				name: 'BusinessForecasting',
 				color: 'yellow-text-gradient',
 			},
 		],
 		image: tiny_world_3d,
-		source_code_link: 'https://github.com/exslym/Tiny-World-3D/',
-		website_link: 'https://exslym.github.io/Tiny-World-3D/',
+		source_code_link: 'https://docs.google.com/spreadsheets/d/130pAorihSAjFS2Al1HYTVcj_xqG38w2N/edit?usp=sharing&ouid=106500014072644820695&rtpof=true&sd=true',
+		website_link: 'https://docs.google.com/spreadsheets/d/130pAorihSAjFS2Al1HYTVcj_xqG38w2N/edit?usp=sharing&ouid=106500014072644820695&rtpof=true&sd=true',
 	},
-	{
+	/*{
 		name: 'Eventlify',
 		description:
 			'The events web application stands as a comprehensive, full-stack platform for managing events taking place globally. With this app you have the capability to purchase tickets for any event published there or even initiate and manage your own events.',
@@ -490,9 +490,9 @@ const socials = [
 		link: `https://github.com/${githubUser}/`,
 	},
 	{
-		name: 'discord',
+		name: 'Instagram',
 		icon: discord,
-		link: `https://github.com/${discordUser}/`,
+		link: `https://instagram.com/${discordUser}/`,
 	},
 ];
 
