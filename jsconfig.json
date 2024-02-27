@@ -2,9 +2,6 @@
     "compilerOptions": {
         "baseUrl": ".",
         "paths": {
-            "@assets/*": [
-                "src/assets/*"
-            ],
             "@components/*": [
                 "src/components/*"
             ],
@@ -22,6 +19,15 @@
             ],
             "@build/*": [
                 "src/build/*"
+            ],
+            "@assets/*": [
+                "src/build/assets/*"
+            ],
+            "@desktop_pc/*": [
+                "src/build/desktop_pc/*"
+            ],
+            "@planet/*": [
+                "src/build/planet/*"
             ]
         }
     }
