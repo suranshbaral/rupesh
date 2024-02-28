@@ -21,7 +21,7 @@
                 "src/build/*"
             ],
             "@assets/*": [
-                "src/build/assets/*"
+                "src/assets/*"
             ],
             "@desktop_pc/*": [
                 "src/build/desktop_pc/*"

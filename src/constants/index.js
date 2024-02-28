@@ -201,9 +201,9 @@ const projects = [
 		//website_link: 'https://e-commerce-exs.payloadcms.app/',
 	},
 	{
-		name: '3D Tiny World',
+		name: 'OXY Financial Analysis',
 		description:
-			'A thorough financial prediction and analysis tool, the OXY Financial Model is intended to evaluate the financial performance and well-being of the OXY company. This model is a dynamic framework that may be used to forecast and analyze several financial measures over a given time period, usually one to five years.',
+			'A thorough financial prediction and analysis method, the OXY Financial Model is intended to evaluate the financial performance and well-being of the OXY company. This model is a dynamic framework that may be used to forecast and analyze several financial measures over a given time period, usually one to five years.',
 		tags: [
 			{
 				name: 'OXYFinancialAnalysis',

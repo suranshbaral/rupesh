@@ -16,7 +16,7 @@ const About = () => {
 				variants={fadeIn('', '', 0.2, 1)}
 				className='mt-4 text-primary text-[17px] max-w-3xl leading-[30px]'
 			>
-				I&rsquo;m a&nbsp;Driven and meticulous Financial and Accounting Specialist with 8+ Years of experience
+				I&rsquo;m a&nbsp;Driven and meticulous Accounting and Financial Specialist with 8+ Years of experience
 analyzing financial data, reviewing cases, and generating reports. Personable professional skilled
 in forecasting budgets, general accounting, developing financial models, and conducting
 market/financial research. Adept at gathering requirements data, optimizing processes, and
