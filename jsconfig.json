@@ -28,6 +28,27 @@
             ],
             "@planet/*": [
                 "src/build/planet/*"
+            ],
+            "~assets/*": [
+                "src/assets/*"
+            ],
+            "~build/*": [
+                "src/build/*"
+            ],
+            "~components/*": [
+                "src/components/*"
+            ],
+            "~constants/*": [
+                "src/constants/*"
+            ],
+            "~hoc/*": [
+                "src/hoc/*"
+            ],
+            "~utils/*": [
+                "src/utils/*"
+            ],
+            "~/*": [
+                "src/*"
             ]
         }
     }
