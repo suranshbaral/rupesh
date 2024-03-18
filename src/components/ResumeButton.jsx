@@ -13,7 +13,12 @@ const ResumeButton = () => {
   return (
     <div className="resume-dropdown">
       {/* Call viewResume directly without showing the dropdown */}
-      <button onClick={viewResume}>
+      <button onClick={viewResume} style={{
+        color: '#ffffff', // Change the color as needed
+        fontSize: '18px', // Change the font size as needed
+        fontWeight: 500
+        // Add any other styles you want
+      }}>
         Resume
       </button>
     </div>
