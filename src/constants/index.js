@@ -114,9 +114,9 @@ const experiences = [
 		iconBg: '#383E56',
 		date: '09/2021 – 01/12/2024',
 		points: [
-			"Review client/company documentation by analyzing financial data to identify irregularities and incidents of fraud, providing business administration guidance, and generatingfinancial/operational reports to ensure data accuracy.",
-			'Calculating and analyzing client funding requests, estimating fund requests from clients, andawarded Sixty-five million funds to the clients.',
-			"Auditing data information to check entries and funding codes by data verification andoptimization and eliminating the unnecessary cost and providing better and timely funding to the clients.",
+			"Review client/company/government service’s documentation, analyze financial data, calculate and estimate client’s funding request, distinguish irregularities and fraud, and award more than sixty- five million dollars of assistance to the clients.",
+			'Auditing data information to check entries and funding codes by data verification and optimization, reduced unnecessary costs, and awarded better and prompt funding to clients.',
+			"Supplied business administration guidance, developed a data model, and ensured quality control and quality assurance",
 		],
 	},
 	// {
@@ -131,7 +131,7 @@ const experiences = [
 	// 		'Implementing responsive design and ensuring cross-browser compatibility.',
 	// 	],
 	// },
-	{
+	/*{
 		title: 'Financial Consultant',
 		company_name: 'A and A LLC | Greeley CO.',
 		icon: freelance,
@@ -143,7 +143,7 @@ const experiences = [
 			"Improved and expanded more business network to the client’s portfolio by conducting extensive market and competition research hence increased 10% on their ROIC.",
 			"Automated and created Dashboard of all accounting and Financial reporting in EXCEL, enhancing Client’s decision-making.",
 		],
-	},
+	},*/
 	{
 		title: 'Financial Analyst',
 		company_name: 'UPS Franchise (DBA) | Centennial , Colorado.',
@@ -151,11 +151,10 @@ const experiences = [
 		iconBg: '#383E56',
 		date: '1/2015 – 09/2018',
 		points: [
-			"Improved Operating Procedures by performing risk analysis and identifying inefficiencies in daily processes, increasing operational efficiency by 15%.",
-  "Evaluated new projects and financing options by developing future cash flow models and debt models, and expanded more stores in their network.",
-  "Maintained all accounting records and bookkeeping, prepared and reconciled income statements and balance sheet accounts.",
-  "Identified areas of growth and process improvement opportunities, enhancing operating efficiencies and effectiveness.",
-  "Extracted and manipulated sales data from UPS software to Excel, created power query, and Dashboard in Power BI.",
+			"Prepared monthly finalization of financial books and records with attention to detail and adherence to internal control. Reconciled monthly reports , accruals entries, charts of accounts, and Prepaid financial statements in compliance with GGAP",
+  "Managed daily cash flow and projected cash flow at weekly and monthly intervals, thereby enhancing operating efficiency.",
+  "Identified growth opportunities to acquire more stores by leveraging the interest rates -from 2018 to 2020 through bank debt financing, resulting in a 20% increase in packaged delivery and printing sales and an overall improvement in financial performance.",
+ 
 		],
 	},
 	{
@@ -165,10 +164,10 @@ const experiences = [
 		iconBg: '#383E56',
 		date: '1/2009 – 12/2014',
 		points: [
-			"Managed working capital and day-to-day operations of Retail and Food Service locations.",
-  			"Increased revenue by 20% year after year through cross-selling.",
-  			"Performed complete financial statements, ratio analysis, and trend analysis, and recommended actions to executives.",
-  			"Assisted executives in expanding Food Service locations and contributed to the strategy to maintain sales.",
+			"Managed and oversaw all accounting aspects of the convenience store operations, including budgeting, forecasting, and Financial reporting.",
+"Monitor inventory levels, analyze inventory turnover, ensure inventory auditing, and analyze variance to prevent the shrinkage using PDI ERP system.",
+"Communicate and Collaborate with store management and category management team to drive sales initiatives and promote sales growth.",
+"Coached and communicated with associates, Guiding sales, Inventory management, and overall financial operations.",
 		],
 	},
 ];
