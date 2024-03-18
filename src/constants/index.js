@@ -235,11 +235,11 @@ const projects = [
 				color: 'blue-text-gradient',
 			},
 			{
-				name: 'ColoradoTrends',
+				name: 'Trends',
 				color: 'green-text-gradient',
 			},
 			{
-				name: 'FurnitureSales',
+				name: 'Sales',
 				color: 'pink-text-gradient',
 			},
 			{
