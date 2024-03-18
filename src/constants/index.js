@@ -225,33 +225,33 @@ const projects = [
 		source_code_link: 'https://docs.google.com/spreadsheets/d/130pAorihSAjFS2Al1HYTVcj_xqG38w2N/edit?usp=sharing&ouid=106500014072644820695&rtpof=true&sd=true',
 		website_link: 'https://docs.google.com/spreadsheets/d/130pAorihSAjFS2Al1HYTVcj_xqG38w2N/edit?usp=sharing&ouid=106500014072644820695&rtpof=true&sd=true',
 	},
-	/*{
-		name: 'Eventlify',
+	{
+		name: 'Retail Sales Analysis',
 		description:
-			'The events web application stands as a comprehensive, full-stack platform for managing events taking place globally. With this app you have the capability to purchase tickets for any event published there or even initiate and manage your own events.',
+			'Analyzing retail trends in Colorado, we observe a surge in mobile-integrated furniture sales, highlighting evolving consumer preferences and market opportunities',
 		tags: [
 			{
-				name: 'typescript',
+				name: 'RetailAnalysis',
 				color: 'blue-text-gradient',
 			},
 			{
-				name: 'react',
+				name: 'ColoradoTrends',
 				color: 'green-text-gradient',
 			},
 			{
-				name: 'tailwindcss',
+				name: 'FurnitureSales',
 				color: 'pink-text-gradient',
 			},
 			{
-				name: 'next14',
+				name: 'MarketInsights',
 				color: 'yellow-text-gradient',
 			},
 		],
 		image: eventlify,
-		source_code_link: 'https://github.com/exslym/eventlify/',
-		website_link: 'https://eventlify-exs.vercel.app/',
+		source_code_link: '',
+		website_link: 'https://docs.google.com/spreadsheets/d/14fzaaqXKQiWFu7_AEyuIZr7RTKb-e7kN/edit?usp=sharing&ouid=106500014072644820695&rtpof=true&sd=true',
 	},
-	{
+	/*{
 		name: '3D T-Shirts AI Design',
 		description:
 			'A website project where you can make custom design t-shirts in 3D with the help of AI in real-time. You can also choose color or upload your own images to make your t-shirt truly unique.',
